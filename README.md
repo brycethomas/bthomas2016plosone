@@ -23,6 +23,7 @@ Here is a list of the dependencies of the main script:
 * [Numpy](http://www.numpy.org/)
 * [NetworkX](https://networkx.github.io/)
 * [bc](https://www.gnu.org/software/bc/manual/html_mono/bc.html)
+
 If you identify further dependencies please let us know.
 
 # Code structure & documentation
